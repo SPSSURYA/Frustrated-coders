@@ -5,12 +5,12 @@ him. One more thing, all the guns have only 1 bullet. This roulette can take pla
 any random order. Fortunately, you have the time stone (haaan wo harre wala) and
 you can see all possible outcomes of this scenario. Find the outcome where the total
 sum of the remaining coder's skill is minimum. Print this sum.
-Input Format
+# Input Format
 The first line contains N the no. of coders
 The next line contains N elements where the ith element is theS[ i ] of ith coder.
-Output Format
+# Output Format
 Print a single line containing the minimum sum.
 
-Constraints
+# Constraints
 1<= N <= 1000000
 1<=S[ i ]<=1000
